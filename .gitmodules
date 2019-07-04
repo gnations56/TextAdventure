@@ -1,0 +1,3 @@
+[submodule "TAedit"]
+	path = TAedit
+	url = https://github.com/gnations56/TAedit.git
